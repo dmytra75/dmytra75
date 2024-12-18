@@ -1,4 +1,6 @@
-## Hi there 👋
+## Qt C++ Embeded && Arduino prj 👋
+
+- 🔭 I’m currently working on ... Qt -> QtSensors
 
 <!--
 **dmytra75/dmytra75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
